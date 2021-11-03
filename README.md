@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mundiaem
 - 👀 I’m interested in ... Java, Spring, Python, Flask, Android 
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning ... Data Structure and Algorithms, System Architecture 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... https://www.linkedin.com/in/dominic-mundia-219b3b157/
 
