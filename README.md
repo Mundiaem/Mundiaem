@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dominic Mundia
+- 👋 Hello, I’m Dominic Mundia
 - 👀 I’m interested in ... Java, Spring, Python, Flask, Android 
 - 🌱 I’m currently learning ... Data Structure and Algorithms, System Architecture 
 - 💞️ I’m looking to collaborate on ...
