@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Dominic Mundia
-- 👀 I’m interested in ... Java, Spring, Python, Flask, Android 
+- 👀 I’m interested in ... Java, Kotlin, JavaScript, Spring, Python, Flask, Android, Vue 
 - 🌱 I’m currently learning ... Data Structure and Algorithms, System Architecture 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Open source projects
 - 📫 How to reach me ... https://www.linkedin.com/in/dominic-mundia-219b3b157/
 
 <!---
